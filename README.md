@@ -1,9 +1,4 @@
 ## Hi dear!!👋
-
-<!--
-**IvumiYo/IvumiYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 Yo! I'm a student who’s into programming and tech stuff.  
 I like messing around with code, learning new tools, and figuring out how things work under the hood.
 
